@@ -1,7 +1,5 @@
 
-  # Car and Motorcycle Sales Dashboard
-
-  This is a code bundle for Car and Motorcycle Sales Dashboard. The original project is available at https://www.figma.com/design/LjuvNa8LHnKtwM97Dg0fkf/Car-and-Motorcycle-Sales-Dashboard.
+# Quaresma Motors
 
   ## Running the code
 
